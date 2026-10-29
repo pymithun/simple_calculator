@@ -1,6 +1,8 @@
 # Modern Calculator
 
-A polished, responsive calculator built with plain HTML, CSS, and vanilla JavaScript.
+A clean, responsive web calculator with basic arithmetic operations, keyboard support, and a polished modern user interface.
+
+Built with plain HTML, CSS, and vanilla JavaScript.
 
 ## Features
 
